@@ -1,0 +1,38 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      chinese-calendar:
+        specifier: ^1.0.3
+        version: 1.0.3
+      lunar-javascript:
+        specifier: ^1.7.3
+        version: 1.7.3
+      moment:
+        specifier: ^2.30.1
+        version: 2.30.1
+
+packages:
+
+  chinese-calendar@1.0.3:
+    resolution: {integrity: sha512-l1biPL0iAZYhgggJCOru23C+9aaXIXtz1PUgh6Xad6PwiNVl53FI9gtG5ufduoclJvjRBIGowQMyOjuj1Ep/MA==}
+
+  lunar-javascript@1.7.3:
+    resolution: {integrity: sha512-p03Nj1D50UIHF66nRszKh9jDGf1nSsGlRFavrbqV6cz9UgOAcjQw7m0NRprjxPV3JsKKwhw4almHhe8BKkNFgg==}
+
+  moment@2.30.1:
+    resolution: {integrity: sha512-uEmtNhbDOrWPFS+hdjFCBfy9f2YoyzRpwcl+DqpC6taX21FzsTLQVbMV/W7PzNSX6x/bhC1zA3c2UQ5NzH6how==}
+
+snapshots:
+
+  chinese-calendar@1.0.3: {}
+
+  lunar-javascript@1.7.3: {}
+
+  moment@2.30.1: {}
